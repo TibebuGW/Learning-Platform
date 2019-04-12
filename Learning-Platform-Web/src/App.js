@@ -7,7 +7,7 @@ import aboutimage from './images/Frame 19.png';
 import question from './images/question.png';
 import Contact from './Components/Contact';
 import Learning from './Components/Learning';
-function App() {
+function App() { 
   return (
     <Router>
       <div className="App">
@@ -26,7 +26,7 @@ function App() {
           <Route path="/Learning">
             <Learning />
           </Route>
-
+          // app.js info
           </Switch>
       </div>
     </Router>
