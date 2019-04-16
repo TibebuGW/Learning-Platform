@@ -4,7 +4,6 @@ import React from 'react';
 function Header() {
     const divStyle = {
         color: 'white',
-        
       };
     return (
         <div id="main">
