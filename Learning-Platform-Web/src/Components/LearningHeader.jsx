@@ -11,5 +11,4 @@ function LearningHeader() {
         </div>
     )
 }
-
 export default LearningHeader
