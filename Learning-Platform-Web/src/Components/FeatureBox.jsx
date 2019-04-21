@@ -11,7 +11,6 @@ function FeatureBox(props) {
                     <h2>{props.title}</h2>
                 </div>
             </a>
-            
         </div>
     )
 }
