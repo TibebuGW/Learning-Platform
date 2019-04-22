@@ -14,7 +14,6 @@ function Navbar() {
     }
 
     window.addEventListener('scroll', changeBackground);
-
     return (
         <nav className={nav ? 'nav active': 'nav'}>
             <a href="#" className="logo">
