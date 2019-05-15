@@ -8,7 +8,6 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
-
 namespace Teaching.Controllers
 {
     [Route("api/[controller]")]
